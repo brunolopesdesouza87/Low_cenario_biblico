@@ -1,0 +1,6 @@
+{
+  "name": "Clubinho da Promessa - 35 Cenários Bíblicos 3D",
+  "description": "Histórias bíblicas 3D para imprimir, montar e ensinar de um jeito lúdico e encantador para crianças. Perfeito para Ministério Infantil, EBD e famílias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
