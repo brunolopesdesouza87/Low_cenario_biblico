@@ -23,8 +23,8 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
   const price = isPremium ? 'R$ 11,99' : 'R$ 4,99';
   const planName = isPremium ? 'Plano Premium (Acesso Vitalício)' : 'Plano Básico (1 Mês)';
   const checkoutUrl = isPremium
-    ? 'https://pay.criativa.online/c/4zij80b'
-    : '#pix';
+    ? 'https://pay.cakto.com.br/3b8rq9x_1271739'
+    : 'https://pay.cakto.com.br/jz96xnr_1271720';
 
   const fakePixCode = isPremium
     ? '00020126580014br.gov.bcb.pix0136cenariosdafe@pagamentos.com.br520400005303986540511.995802BR5920Cenarios da Fe Kids6009Sao Paulo62070503***6304ABCD'

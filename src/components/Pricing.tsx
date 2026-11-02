@@ -145,7 +145,7 @@ export const Pricing: React.FC<PricingProps> = ({ onSelectPlan }) => {
               {/* Action Buttons */}
               <div className="space-y-2">
                 <a
-                  href="https://pay.criativa.online/c/4zij80b"
+                  href="https://pay.cakto.com.br/3b8rq9x_1271739"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full inline-flex items-center justify-center gap-2 bg-[#FF2A53] hover:bg-[#e41842] text-white font-black text-lg sm:text-xl py-4 px-6 rounded-2xl shadow-xl shadow-rose-600/50 uppercase tracking-wide transition-all transform hover:scale-105 active:scale-95 animate-pulse-cta cursor-pointer border-2 border-white/30"
@@ -266,13 +266,14 @@ export const Pricing: React.FC<PricingProps> = ({ onSelectPlan }) => {
               </div>
 
               <div className="space-y-2">
-                <button
-                  type="button"
-                  onClick={() => onSelectPlan('basico')}
+                <a
+                  href="https://pay.cakto.com.br/jz96xnr_1271720"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-full inline-flex items-center justify-center gap-2 bg-slate-700 hover:bg-slate-800 text-white font-bold text-base py-3.5 px-6 rounded-2xl transition-all cursor-pointer"
                 >
                   <span>QUERO O PLANO BÁSICO • R$ 4,99</span>
-                </button>
+                </a>
 
                 <button
                   type="button"
